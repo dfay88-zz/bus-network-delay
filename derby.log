@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Tue Apr 18 12:39:39 EDT 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015b-81ef-1014-00000c3d6408 
+Wed Apr 19 15:44:57 EDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015b-87bf-0ecf-00000f72ff10 
 on database directory /Users/Danny1/Documents/NYU/MachineLearning/bus-network-delay/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@e49b3ca 
 Loaded from file:/usr/local/Cellar/apache-spark/2.1.0/libexec/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
