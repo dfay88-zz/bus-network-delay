@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
-Wed Apr 05 15:56:19 EDT 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015b-3fb0-6e9f-00000c413710 
-on database directory /Users/Danny1/Documents/NYU/MachineLearning/nyc-bus-delay/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@222e1e65 
+Tue Apr 18 12:39:39 EDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015b-81ef-1014-00000c3d6408 
+on database directory /Users/Danny1/Documents/NYU/MachineLearning/bus-network-delay/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@e49b3ca 
 Loaded from file:/usr/local/Cellar/apache-spark/2.1.0/libexec/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_121-b13
-user.dir=/Users/Danny1/Documents/NYU/MachineLearning/nyc-bus-delay
+user.dir=/Users/Danny1/Documents/NYU/MachineLearning/bus-network-delay
 os.name=Mac OS X
 os.arch=x86_64
-os.version=10.12.3
+os.version=10.12.4
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
