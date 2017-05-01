@@ -1,7 +1,7 @@
 ## Network Based Approach to Predicting Bus Delay
-Daniel Fay, Felipe Gonzalez, Achilles Saxby
-Center for Urban Science and Progress
-New York University
+Daniel Fay, Felipe Gonzalez, Achilles Saxby  
+Center for Urban Science and Progress  
+New York University  
 
 
 ### Problem Statement
@@ -10,10 +10,10 @@ The primary objective of this project was to develop a model to predict the stat
 ### Data and Processing
 We used the MTA’s dataset that contains the MTA Bus Time Data from August 1, 2014 through October 31, 2014. Each record in the data set contains, for a single bus, the time of observation, bus location, bus route, next stop, distance from that stop, and other variables described below.
 We selected some of the buses and grouped the data in time periods of hours based on the common groups used in literature for transit analysis (morning and afternoon peaks, etc). Secondly, we calculate whether each bus had and inbound or outbound direction. Finally for each bus, direction and time period we calculated the mean of the trip in minutes. Based on that, we came up with the delay label for our dataset using the following criteria:  
-Less than 5 minutes below the mean: Early
-Between 5 minutes below the mean and 5 minutes after the mean: On time
-Between 5 and 15 minutes after the mean: Delay
-After 15 minutes after the mean: Significant delay
+Less than 5 minutes below the mean: Early  
+Between 5 minutes below the mean and 5 minutes after the mean: On time  
+Between 5 and 15 minutes after the mean: Delay  
+After 15 minutes after the mean: Significant delay  
 
 
 #### Temporal Features
